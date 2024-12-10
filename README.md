@@ -7,3 +7,19 @@ RDS Setup: Instructions to create and configure an Amazon RDS PostgreSQL databas
 EC2 Instance: Steps to launch and configure an EC2 instance for accessing the RDS database.
 Database Configuration: SQL scripts to create users and define their permissions, ensuring secure and structured access.
 Testing: Guidelines to verify connectivity and permissions for each user.
+
+
+Instructions:-
+
+Step 1: Create the RDS Instance
+
+Step 2: Launch an EC2 Instance and Install PostgreSQL Client
+       2.1 Launch an EC2 Instance
+       2.2 Install PostgreSQL Client on EC2
+
+Step 3: Connect EC2 to RDS
+
+Step 4: Configure the Database Users
+       4.1 Create Additional Users
+
+Step 5: Test User Permissions
