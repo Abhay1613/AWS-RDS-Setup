@@ -1,5 +1,5 @@
 # Launch the instance and connect to it via SSH:
-ssh -i <your-key-pair.pem> ec2-user@<EC2-public-IP> # Change with your key pain and uour public-IP
+ssh -i <your-key-pair.pem> ec2-user@<EC2-public-IP> # Change with your key pair file and your public-IP
 
 # Update the instance and install the PostgreSQL client:
 sudo yum update -y
