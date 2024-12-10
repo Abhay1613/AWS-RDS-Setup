@@ -6,3 +6,4 @@ Key components of the project:-
 RDS Setup: Instructions to create and configure an Amazon RDS PostgreSQL database.
 EC2 Instance: Steps to launch and configure an EC2 instance for accessing the RDS database.
 Database Configuration: SQL scripts to create users and define their permissions, ensuring secure and structured access.
+Testing: Guidelines to verify connectivity and permissions for each user.
